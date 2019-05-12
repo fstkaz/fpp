@@ -1,0 +1,23 @@
+{
+    "name": "F16-B-48",
+    "longName": "Beagle Pixel Mini",
+    "numSerial": 0,
+    "outputs": [
+        {  "pin": "P8-08" },
+        {  "pin": "P8-10" },
+        {  "pin": "P8-14" },
+        {  "pin": "P8-18" },
+        {  "pin": "P8-28" },
+        {  "pin": "P8-30" },
+        {  "pin": "P8-32" },
+        {  "pin": "P8-34" }
+    ],
+    "groups": [
+        {
+            "start": 1,
+            "count": 8 
+        }
+    ],
+    "serial": [
+    ]
+}
